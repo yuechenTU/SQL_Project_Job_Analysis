@@ -136,7 +136,7 @@ ORDER BY salary_year_avg DESC
 Key Takeaway:
 If you're targeting a six-figure Data Analyst role in Houston, focus on Python, Cloud skills (Azure/AWS), and ML frameworks like TensorFlow. Also, SQL + Tableau remain crucial foundational skills.
 
-![Top Paying Jobs Skills](assets\2_top_paying_jobs_skills.jpg)
+![Top Paying Jobs Skills](assets/2_top_paying_jobs_skills.jpg)
 Here’s the Skills Frequency Bar Chart based on the top-paying Data Analyst jobs in Houston!
 You can clearly see how Python, Azure, TensorFlow, and SQL dominate the requirements. (Generated from ChatGPT)
 
