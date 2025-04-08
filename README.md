@@ -74,7 +74,7 @@ LIMIT 5
 Key Takeaway: Salaries vary by role—engineering & research pay highest (
 100K+), while ITstaffing offers lower(80K-90K)
 
-![Top Paying Roles](assets\1_top_paying_roles.png)
+![Top Paying Roles](assets/1_top_paying_roles.jpg)
 Here’s the bar chart showing the average salary by company for Data Analyst roles in Houston, TX! (Generated from ChatGPT)
 
 
@@ -135,7 +135,7 @@ ORDER BY salary_year_avg DESC
 
 Key Takeaway:
 If you're targeting a six-figure Data Analyst role in Houston, focus on Python, Cloud skills (Azure/AWS), and ML frameworks like TensorFlow. Also, SQL + Tableau remain crucial foundational skills.
-![Top Paying Jobs Skills](assets\2_top_paying_jobs_skills.png)
+![Top Paying Jobs Skills](assets\2_top_paying_jobs_skills.jpg)
 Here’s the Skills Frequency Bar Chart based on the top-paying Data Analyst jobs in Houston!
 You can clearly see how Python, Azure, TensorFlow, and SQL dominate the requirements. (Generated from ChatGPT)
 
